@@ -1,0 +1,4 @@
+ Juego Dora
+ Intenta saltar los cuchillos (Barra espaciadora) y agacharte esquivandolos (Letra A) para que el Zorro no te mate y llegues a salvo! tienes 25 segundos y una sola vida, Suerte!
+ Dora ha sido asesinada por el Zorro
+ Lograste escapar del Zorro!!
